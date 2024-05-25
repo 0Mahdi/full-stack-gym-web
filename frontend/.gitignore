@@ -24,5 +24,4 @@ dist-ssr
 *.sw?
 
 #secret
-
-config.env
+*config.env
